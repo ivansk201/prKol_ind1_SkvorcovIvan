@@ -1,0 +1,10 @@
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\bin\Debug\prack16forms.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\bin\Debug\prack16forms.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\bin\Debug\prack16forms.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\obj\Debug\prack16forms.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\obj\Debug\prack16forms.Form1.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\obj\Debug\prack16forms.Properties.Resources.resources
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\obj\Debug\prack16forms.csproj.GenerateResource.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\obj\Debug\prack16forms.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\obj\Debug\prack16forms.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16forms\obj\Debug\prack16forms.pdb

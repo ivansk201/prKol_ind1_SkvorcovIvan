@@ -1,0 +1,7 @@
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16console\bin\Debug\prack16console.exe.config
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16console\bin\Debug\prack16console.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16console\bin\Debug\prack16console.pdb
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16console\obj\Debug\prack16console.csproj.AssemblyReference.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16console\obj\Debug\prack16console.csproj.CoreCompileInputs.cache
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16console\obj\Debug\prack16console.exe
+C:\Users\305-5\Desktop\Skvortsovpr-22\prack16consoleandforms\prack16console\obj\Debug\prack16console.pdb
